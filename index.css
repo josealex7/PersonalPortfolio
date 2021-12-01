@@ -125,3 +125,16 @@ footer a{
     font-size: 20px;
 }
 
+@media only screen and (max-width: 500px){
+    #welcome-section h1{
+        font-size: 35px; 
+     }
+     li{
+        margin:5px;
+        font-size: 20px;
+        padding: 12px 3px;
+    }
+    header{
+        text-align: center;
+    }
+}
